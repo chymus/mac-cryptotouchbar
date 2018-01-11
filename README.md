@@ -3,10 +3,11 @@ Mac CryptoTouchbar
 
 Installation :
   1. Download & install Better Touch Tool : https://www.boastr.net/downloads/ (app has 45 days trial)
-  2. Download the presets https://github.com/chymus/mac-cryptotouchbar/blob/master/Mac-Cryptotouchbar.json
-  3. Run the Better Touch Tool app
-  4. Go to Touchbar > Manager presets > Import
-  5. Import the already downloaded Mac-Cryptotouchbar.json
+  2. Download & install JSON Helper:  http://www.mousedown.net/mouseware/JSONHelper.html
+  3. Download the presets https://github.com/chymus/mac-cryptotouchbar/blob/master/Mac-Cryptotouchbar.json
+  4. Run the Better Touch Tool app
+  5. Go to Touchbar > Manager presets > Import
+  6. Import the already downloaded Mac-Cryptotouchbar.json
 
 Usage:
 
