@@ -30,3 +30,8 @@ Usage:
     LTC: LXdwwAo7okmw1TeG6HhN6cqq6Zdf4AnkUi
     VTC: VxMQag3mFwSb5ViJX8uNxbZPXpH7Fak4Rw
   
+
+
+  Changelog:
+    v0.1 - supporting following currencies: BTC,ETH,VTC,KCS,NEBL,RPX,DBC
+    v0.2 - buttons are now active taking you to a appropriate coin coinmarketcap webpage; adding experimental button color change on price change for VTC>$6
