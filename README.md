@@ -23,8 +23,8 @@ Usage:
   
   Donate:
   
-  BTC: 1AjSrWXDMsSiekREJ5maKrvVemVYVf3o6V
-  ETH: 0xd438ffbe2e59d33e5c0fccde7d867f3680d89178
-  LTC: LXdwwAo7okmw1TeG6HhN6cqq6Zdf4AnkUi
-  VTC: VxMQag3mFwSb5ViJX8uNxbZPXpH7Fak4Rw
+    BTC: 1AjSrWXDMsSiekREJ5maKrvVemVYVf3o6V
+    ETH: 0xd438ffbe2e59d33e5c0fccde7d867f3680d89178
+    LTC: LXdwwAo7okmw1TeG6HhN6cqq6Zdf4AnkUi
+    VTC: VxMQag3mFwSb5ViJX8uNxbZPXpH7Fak4Rw
   
