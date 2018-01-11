@@ -1,4 +1,5 @@
 Mac CryptoTouchbar
+![alt text](https://raw.githubusercontent.com/chymus/mac-cryptotouchbar/master/Touch%20Bar%20Shot%202018-01-11%20at%2015.25.38.png)
 
 Installation :
   1. Download & install Better Touch Tool : https://www.boastr.net/downloads/ (app has 45 days trial)
